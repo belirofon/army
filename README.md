@@ -22,7 +22,7 @@ Army - это мобильная игра, разработанная на Flutt
 1. Убедитесь, что у вас установлен Flutter SDK (версия 3.7.2 или выше)
 2. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/army.git
+   git clone https://github.com/belirofon/army.git
    ```
 3. Перейдите в директорию проекта:
    ```bash
@@ -44,9 +44,9 @@ Army - это мобильная игра, разработанная на Flutt
 Вклады приветствуются! Не стесняйтесь открывать issues и создавать pull requests.
 
 ## 📬 Контакты
-Ваше имя - [@ваш_username](https://github.com/yourusername) - your.email@example.com
+Ваше имя - [@belirofon](https://github.com/belirofon) - your.email@example.com
 
-Ссылка на проект: [https://github.com/yourusername/army](https://github.com/yourusername/army)
+Ссылка на проект: [https://github.com/belirofon/army](https://github.com/belirofon/army)
 
 # army
 
