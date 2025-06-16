@@ -28,7 +28,7 @@ class _SplashScreenState extends State<SplashScreen> {
             Icon(Icons.shield, color: Colors.green, size: 100),
             SizedBox(height: 16),
             Text(
-              'ARMY QUEST',
+              'ARMY',
               style: TextStyle(
                 color: Colors.white,
                 fontSize: 28,

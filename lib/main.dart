@@ -21,7 +21,7 @@ class ArmyGameApp extends StatelessWidget {
     );
 
     return MaterialApp.router(
-      title: 'Army Quest',
+      title: 'Army',
       debugShowCheckedModeBanner: false,
       routerConfig: _router,
       theme: ThemeData(

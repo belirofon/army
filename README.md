@@ -44,7 +44,7 @@ Army - это мобильная игра, разработанная на Flutt
 Вклады приветствуются! Не стесняйтесь открывать issues и создавать pull requests.
 
 ## 📬 Контакты
-Ваше имя - [@belirofon](https://github.com/belirofon) - your.email@example.com
+Ваше имя - [@belirofon](https://github.com/belirofon) - n.sannikov88@gmail.com
 
 Ссылка на проект: [https://github.com/belirofon/army](https://github.com/belirofon/army)
 
